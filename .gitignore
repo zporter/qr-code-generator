@@ -1,0 +1,6 @@
+.DS_Store
+/images/*.png
+
+## Environment normalisation:
+/.bundle/
+/lib/bundler/man/

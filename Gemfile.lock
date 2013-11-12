@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chunky_png (1.2.9)
+    rqrcode (0.4.2)
+    rqrcode_png (0.1.2)
+      chunky_png
+      rqrcode
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rqrcode_png
